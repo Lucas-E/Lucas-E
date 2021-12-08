@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Lucas Emanuel
+- 👀 Sou licenciado em matemática e tenho muito interesse por estatística e aprendizagem de máquina
+- 🌱 Atualmente estou me aprofundando no estudo de estatística e Data Science
+- 📫 Você pode me encontrar no meu LinkedIn (https://www.linkedin.com/in/lucas-e-2aaa09b5/) e Instagram(@lucas_apenas_)
