@@ -11,7 +11,7 @@ I'm currently studying web development and pursuing a masters degree in Computer
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center">
     <img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"></img>
-    <img style="margin: 2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-E&theme=transparent&hide_border=false"></img>
+    <img style="margin: 2px; background-color: transparent" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-E&theme=github-dark-blue&hide_border=false"></img>
         <img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></img>
 </div>
 
