@@ -7,7 +7,7 @@ I'm a front end web developer with knowledge in backend frameworks such as Djang
 # 📊 GitHub Stats:
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center">
-    <img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"></img>
-        <img style="margin: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></img>
+    <img style="margin: 2px; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"></img>
+        <img style="margin: 2px; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></img>
 </div>
 
