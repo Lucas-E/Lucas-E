@@ -1,5 +1,5 @@
 # Hey there folks! I'm Lucas!
-I'm a front end web developer with knowledge in backend frameworks such as Django, Flask and Express. Eager to looking forward to enrolling in an IT College.
+I'm a fullstack developer focused on the MERN stack and on fullstack NextJs. I'm eager to pursue a masters degree on computer science!
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/monowuong) 
