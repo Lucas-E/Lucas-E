@@ -11,10 +11,3 @@ I'm a fullstack developer focused on the MERN stack and on fullstack NextJs. I'm
 </a>
 </div>
 
-# 📊 GitHub Stats:
-
-<div style="display:flex; flex-direction:column; justify-content:center">
-    <div><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"/></div>
-        <div><img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-E&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></div>
-</div>
-
