@@ -2,7 +2,7 @@
 I'm a fullstack developer focused on the MERN stack and on fullstack NextJs. I'm eager to pursue a masters degree on computer science!
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/monowuong) 
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/lucas_apenas_/) 
 
 # 📊 GitHub Stats:
 
